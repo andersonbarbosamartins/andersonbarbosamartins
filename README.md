@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @andersonbarbosamartins
+- 👋 Hi, I’m @andersonmartins
 - 👀 I’m interested in programar front end.
 - 🌱 I’m currently learning logic and software development.   
 - 💞️ I’m looking to  projetos para praticar meus estudos.
